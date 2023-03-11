@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning professional **DevOps CI/CD**
 
--🤝 I am on a journey to explore new frontiers of software development, constantly seeking opportunities to expand my skills and knowledge, and striving to become a master craftsman of code.
+- 🤝 I'm a dedicated developer seeking new opportunities to innovate and improve **my skills**.
 
 - 💬 Ask me about **Python, JS, VBA,React, Django**
 
