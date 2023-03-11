@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning professional **DevOps CI/CD**
 
+-🤝 I am on a journey to explore new frontiers of software development, constantly seeking opportunities to expand my skills and knowledge, and striving to become a master craftsman of code.
+
 - 💬 Ask me about **Python, JS, VBA,React, Django**
 
 - 📫 How to reach me **johannes.kanthak@scrumtech.de**
