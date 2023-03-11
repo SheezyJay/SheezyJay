@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A passionate Fullstack-Developer based in Germany</h3>
 
-- 🌱 I’m currently learning **DevOps CI/CD**
+- 🌱 I’m currently learning professional **DevOps CI/CD**
 
 - 💬 Ask me about **Python, JS, VBA,React, Django**
 
 - 📫 How to reach me **johannes.kanthak@scrumtech.de**
 
-- ⚡ Fun fact **I started coding with 12**
+- ⚡ Fun fact **I started coding with 13**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
