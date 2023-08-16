@@ -5,11 +5,11 @@
 
 - 🤝 I'm a dedicated developer seeking new opportunities to innovate and improve **my skills**.
 
-- 💬 Ask me about **Python, JS, VBA,React, Django**
+- 💬 Ask me about **Python, JS, VBA, Django**
 
-- 📫 How to reach me **johannes.kanthak@scrumtech.de**
+- 📫 How to reach me **johannes.kanthak@gmx.de**
 
-- ⚡ Fun fact **I started coding with 13**
+- ⚡ Fun fact **I started coding with 14**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
