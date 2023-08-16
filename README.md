@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
-<h3 align="center">A passionate Fullstack-Developer based in Germany</h3>
+<h3 align="center">A passionate Developer based in Germany</h3>
 
 - 🌱 I’m currently learning professional **DevOps CI/CD**
 
