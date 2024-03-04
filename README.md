@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A passionate Developer based in Germany</h3>
 
-- 🌱 I’m currently learning professional **DevOps CI/CD**
+- 🌱 I’m currently learning professional **AI and ML e.g. Tensorflow, Keras, LLM**
 
 - 🤝 I'm a dedicated developer seeking new opportunities to innovate and improve **my skills**.
 
-- 💬 Ask me about **Python, JS, VBA, Django**
+- 💬 Ask me about **Python, Javascript, VBA, Django**
 
-- 📫 How to reach me **johannes.kanthak@gmx.de**
-
-- ⚡ Fun fact **I started coding with 14**
+- 📫 How to reach me **johannes.kanthak@kdc-solutions.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
